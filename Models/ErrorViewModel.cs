@@ -1,5 +1,3 @@
-using System;
-
 namespace CrudPatrimonioEmpresarial.Models
 {
     public class ErrorViewModel
